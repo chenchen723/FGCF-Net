@@ -7,5 +7,7 @@ torchvision 0.8.2
 Download the training and test datasets and move them into , see Google Drive/Baidu Drive [code:dr1h]../dataset/
 # Pre-trained model
 Download the pre-trained model from Google Drive/Baidu Drive [code:w4vk], and then put it in the folder for initialization../pretrained_pth
-#Train the model
+# Train the model
 python train.py
+# Test the model
+python test.py
