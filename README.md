@@ -1,2 +1,6 @@
 # FGCF-Net
-FGCF-Net
+FGCF-Net环境设置
+
+Python 3.8
+Pytorch 1.7.1
+torchvision 0.8.2
